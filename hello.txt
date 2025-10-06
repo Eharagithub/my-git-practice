@@ -1,1 +1,1 @@
- "Hello Git" 
+ "Hello Git this is my 1st argocd tutorial" 
